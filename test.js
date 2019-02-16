@@ -11,8 +11,7 @@ t.test('timeout should be set correctly', t => {
 
   const fastify = Fastify({ logger: { level: 'silent' } })
   fastify.register(plugin, {
-    serverTimeout: 100,
-    incomingMessageTimeout: 100
+    serverTimeout: 100
   })
   fastify.get('/timeout', async function (req, res) {
     await new Promise(resolve => setTimeout(resolve, 1000))
