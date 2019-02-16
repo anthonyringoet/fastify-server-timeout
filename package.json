@@ -1,6 +1,6 @@
 {
   "name": "fastify-server-timeout",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Set timeout for incoming messages",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,5 @@
     "standard": "^12.0.1",
     "tap": "^12.5.3"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
