@@ -1,4 +1,4 @@
-# fastify-server-timeout
+# fastify-server-timeout [![Build Status](https://travis-ci.org/fastify/fastify-server-timeout.svg?branch=master)](https://travis-ci.org/fastify/fastify-server-timeout)
 
 Set timeout for incoming messages.
 
