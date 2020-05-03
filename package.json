@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/fastify/fastify-server-timeout#readme",
   "devDependencies": {
-    "fastify": "^1.14.1",
+    "fastify": "^3.0.0-rc.1",
     "snazzy": "^8.0.0",
     "simple-get": "^3.0.3",
     "standard": "^12.0.1",
